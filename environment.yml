@@ -1,0 +1,7 @@
+channels:
+  - conda-forge
+dependencies:
+  - hyperspy-base
+  - hyperspy-gui-ipywidgets
+  - pip:
+    - https://github.com/ericpre/gpa/archive/refs/heads/master.zip
